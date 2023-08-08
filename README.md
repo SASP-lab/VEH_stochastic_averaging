@@ -7,8 +7,8 @@ https://asmedigitalcollection.asme.org/risk/article/9/4/041201/1163817
 
 ## How to cite:
 
-@article{dosSantos2023,
-  doi = {10.1115/1.4062704},
+@article{dosSantos2023,\
+  doi = {10.1115/1.4062704},\
   url = {https://doi.org/10.1115/1.4062704},
   year = {2023},
   month = jun,
